@@ -21,7 +21,7 @@
 * Data Structures & Algorithms  
 * AI & Machine Learning Fundamentals
  
-## 🤝 Looking to Collaborate On
+## 🤝 Looking to Collaborate On 
 
 * Beginner-friendly open-source projects
 * Web development projects
