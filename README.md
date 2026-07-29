@@ -15,7 +15,7 @@
 
 * C Programming 
 * C++ Programming 
-* MySQL  
+* MySQL   
 * HTML & CSS
 * Git & GitHub
 * Data Structures & Algorithms  
