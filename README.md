@@ -6,7 +6,7 @@
 
 ## 🚀 Currently Working On 
 
-* Building my GitHub portfolio
+* Building my GitHub portfolio 
 * C & C++ programming practice
 * MySQL database projects
 * Beginner web development projects
