@@ -18,7 +18,7 @@
 * MySQL
 * HTML & CSS
 * Git & GitHub
-* Data Structures & Algorithms
+* Data Structures & Algorithms 
 * AI & Machine Learning Fundamentals
 
 ## 🤝 Looking to Collaborate On
