@@ -11,7 +11,7 @@
 * MySQL database projects
 * Beginner web development projects
  
-## 🌱 Currently Learning
+## 🌱 Currently Learning 
 
 * C Programming 
 * C++ Programming
