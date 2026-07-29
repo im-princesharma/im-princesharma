@@ -32,7 +32,7 @@
 * C
 * C++
 * HTML
-* CSS
+* CSS 
 * MySQL
 * Git & GitHub
 
