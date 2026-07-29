@@ -40,7 +40,7 @@
 
 * 💻 C Programming Practice
 * 🗄️ MySQL Learning Journey
-* 🌐 HTML Projects
+* 🌐 HTML Projects 
 * 🎯 Personal Portfolio Website (Coming Soon)
 
 ## 🎯 Goals for 2026
