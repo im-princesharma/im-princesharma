@@ -45,7 +45,7 @@
 
 ## 🎯 Goals for 2026
 
-* Build a strong GitHub portfolio
+* Build a strong GitHub portfolio 
 * Complete C & MySQL roadmaps
 * Learn JavaScript
 * Create full-stack projects
