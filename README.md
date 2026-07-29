@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Sharma
 
-🎓 BCA (AI & ML) Student at Galgotias University
+🎓 BCA (AI & ML) Student at Galgotias University 
 
 💻 Passionate about Programming, Databases, Web Development, and Artificial Intelligence.
 
