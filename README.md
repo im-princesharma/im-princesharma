@@ -13,7 +13,7 @@
 
 ## 🌱 Currently Learning
 
-* C Programming
+* C Programming 
 * C++ Programming
 * MySQL 
 * HTML & CSS
