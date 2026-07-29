@@ -10,7 +10,7 @@
 * C & C++ programming practice
 * MySQL database projects
 * Beginner web development projects
-
+ 
 ## 🌱 Currently Learning
 
 * C Programming 
